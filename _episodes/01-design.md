@@ -1,21 +1,20 @@
 ---
-title: "Lesson Design"
+title: "Layout Wazimaps"
 teaching: 10
 exercises: 0
 questions:
-- "How do we design lessons?"
+- "What are the key interface items in Wazimap?"
+- "How do I navigate to a specific location / area in Wazimap"
 objectives:
-- "Describe the reverse instructional design process."
-- "Describe the purpose and implementation of formative assessments."
-keypoints:
-- "Lessons are design in four stages: conceptual, summative, formative, and connective."
+- "Understand the Wazimap interface"
+- "Being able to search for a spesific place in Wazimap"
 ---
 
-This episode describes how we go about designing lessons and why.
-For more information on how we design lessons and why,
-see [the instructor training course][training].
+This episode describes the basic interface elements within Wazimap and introduces ways to navigate to spesific places and wards within South Africa
 
-## Reverse Instructional Design
+## Interface
+
+
 
 In principle,
 we design lessons in four stages:
