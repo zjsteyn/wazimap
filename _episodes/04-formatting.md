@@ -1,5 +1,5 @@
 ---
-title: "Formatting"
+title: "Application: we-Deliver Communities"
 teaching: 10
 exercises: 0
 questions:
