@@ -14,9 +14,9 @@ Building on what we discussed in the [Data Organisation Lesson]({{https://zjstey
 Wazimap builds on Censusreporter and makes it easier to re-use. Wazimap was originally built by OpenUp with the support of Media Monitoring Africa. It is maintained by  [OpenUp]({{ https://openup.org.za/ }}).
 
 Some examples include:
-[Wazimap South Africa]({{ https://wazimap.co.za/ }})
-[Hurumap Kenya]({{ https://kenya.hurumap.org/ }})
-[Youth Explorer]({{ https://youthexplorer.org.za/ }})
+- [Wazimap South Africa]({{ https://wazimap.co.za/ }})
+- [Hurumap Kenya]({{ https://kenya.hurumap.org/ }})
+- [Youth Explorer]({{ https://youthexplorer.org.za/ }})
 
 We will use the [Wazimap South Africa]({{ https://wazimap.co.za/ }}) basis for the final part of this workshop.
 
