@@ -6,7 +6,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 Building on what we discussed in the [Data Organisation Lesson]({{https://zjsteyn.github.io/we-Deliver/}}) we will now go further and explore a practical example of what is possible if data is structured and organised.
 
-![alt text](https://wazimap.co.za/)
+![alt text](https://wazimap.co.za/static/img/wazi-logo.png)
 <br>
 
 [Wazimap]({{ http://wazimap.readthedocs.io/en/latest/ }}) is an online application for exploring census and other similar data. It makes it easy to understand a place through the eyes of the data, and to explore data across a range of places. It is most suited for census data but can easily be used with other data that is similarly focused on places in a country.
@@ -20,12 +20,7 @@ Some examples include:
 
 We will use the [Wazimap South Africa]({{ https://wazimap.co.za/ }}) basis for the final part of this workshop.
 
-<!---
-> ## Prerequisites
->
-> Use the `.prereq` style to specify prerequisites.
-{: .prereq}
----!>
+
 
 > ## What we will cover in this lesson:
 >
@@ -35,7 +30,4 @@ We will use the [Wazimap South Africa]({{ https://wazimap.co.za/ }}) basis for t
 {: .checklist}
 
 ## Throughout this lesson we will consider practical applications and usability of the information available in wazimap
-<!---
-{% include links.md %}
 
----!>
