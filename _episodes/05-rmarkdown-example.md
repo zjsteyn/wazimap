@@ -1,6 +1,6 @@
 ---
 source: Rmd
-title: "Using RMarkdown"
+title: "Exporting data / tables / graphs"
 teaching: 10
 exercises: 2
 questions:
