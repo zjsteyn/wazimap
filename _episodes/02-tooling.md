@@ -1,5 +1,5 @@
 ---
-title: "GitHub, Markdown, and Jekyll"
+title: "How to search for a place in Wazimap"
 teaching: 10
 exercises: 0
 questions:
