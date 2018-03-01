@@ -1,5 +1,5 @@
 ---
-title: "Lesson Organization"
+title: "Exploring and comparing underlaying data"
 teaching: 10
 exercises: 0
 questions:
