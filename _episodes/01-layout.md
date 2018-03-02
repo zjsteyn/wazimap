@@ -8,6 +8,9 @@ questions:
 objectives:
 - "Understand the Wazimap interface"
 - "Being able to search for a spesific place in Wazimap"
+keypoints:
+- "Wazimap interface"
+- "Value of having structured data"
 ---
 
 ## This episode describes the basic interface elements within Wazimap and introduces ways to navigate to spesific places and wards within South Africa
