@@ -10,11 +10,15 @@ objectives:
 - "Being able to search for a spesific place in Wazimap"
 ---
 
-This episode describes the basic interface elements within Wazimap and introduces ways to navigate to spesific places and wards within South Africa
+## This episode describes the basic interface elements within Wazimap and introduces ways to navigate to spesific places and wards within South Africa
 
 ## Wazimap interface
 
-1.  **Searching for a location in Wazimap**:
+1.  **What is Wazimap**
+
+2.  **Value of structured data**
+
+3.  **Searching for a location in Wazimap**:
     
-2.  **Summative Assessment**:
+4.  **Browsing South Africa**:
    
