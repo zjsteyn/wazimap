@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contributor Code of Conduct"
+root: .
 ---
 As contributors and maintainers of this project,
 we pledge to respect all people who contribute through reporting issues,
@@ -40,5 +41,4 @@ may be reported by following our [reporting guidelines][coc-reporting].
 
 - [Software and Data Carpentry Code of Conduct][coc]
 - [Code of Conduct Reporting Guide][coc-reporting]
-
 
