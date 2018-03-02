@@ -1,7 +1,7 @@
 ---
 title: "Application: we-Deliver Communities"
 teaching: 10
-exercises: 0
+exercises: 20
 questions:
 - "How do we apply what we learend up to now to now?"
 objectives:
