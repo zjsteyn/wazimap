@@ -1,19 +1,16 @@
 ---
 source: Rmd
-title: "Exporting data / tables / graphs"
+title: "Using data / tables / graphs"
 teaching: 10
-exercises: 2
+exercises: 1
 questions:
-- "How to write a lesson using RMarkdown?"
+- "How do you use the data / tables / graphs available you create in Wazimap elsewhere?"
 objectives:
-- "Explain how to use RMarkdown with the new lesson template."
-- "Demonstrate how to include pieces of code, figures, and challenges."
-keypoints:
-- "It shouldn't be difficult"
+- "Downloading Wazimap data"
+- "Embedding Wazimap data on your own website"
 ---
 
-This episode demonstrates all the features that can be used when writing a
-lesson in [RMarkdown][r-markdown].
+This episode demonstrates how you can use the Wazimap data that is available for a spesific place elsewehre.
 
 To generate the site, you will need to have the following packages installed:
 
