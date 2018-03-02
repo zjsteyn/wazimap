@@ -9,10 +9,8 @@ objectives:
 - "Downloading Wazimap data"
 - "Embedding Wazimap data on your own website"
 ---
+## This episode demonstrates how you can use the Wazimap data that is available for a spesific place elsewehre.
+
 ~~~
-This episode demonstrates how you can use the Wazimap data that is available for a spesific place elsewehre.
-~~~
-
-
-
 ## Challenge 1 : Download the wazimap data to your computer and open it in a spreadsheet programme.
+~~~
