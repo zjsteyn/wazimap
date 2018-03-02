@@ -1,7 +1,7 @@
 ---
 title: "How to search for a place in Wazimap"
-teaching: 10
-exercises: 0
+teaching: 5
+exercises: 5
 questions:
 - "How do I search for a specific place in Wazimap?"
 objectives:
