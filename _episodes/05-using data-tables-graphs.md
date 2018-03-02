@@ -12,7 +12,7 @@ keypoints:
 - Downloading Wazimap data"
 - Using Wazimap data elsewhere"
 ---
-## This episode demonstrates how you can use the Wazimap data that is available for a spesific place elsewehre.
+## In this episode we will learn how to use Wazimap data elsewehre.
 
 ~~~
 ## Challenge 1 : Download the Wazimap data to your computer and open it in a spreadsheet programme.
