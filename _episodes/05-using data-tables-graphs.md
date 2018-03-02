@@ -8,6 +8,8 @@ questions:
 objectives:
 - "Downloading Wazimap data"
 - "Embedding Wazimap data on your own website"
+key points:
+a 
 ---
 ## This episode demonstrates how you can use the Wazimap data that is available for a spesific place elsewehre.
 
