@@ -12,5 +12,5 @@ keypoints:
 - "What data sections is available in Wazimap"
 ---
 
-## We will now use Wazimap to explore the communities that forms part of the we-Deliver project
+## We will now use Wazimap to explore the different communities and wards across South Africa 
 
