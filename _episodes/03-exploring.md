@@ -1,7 +1,7 @@
 ---
 title: "Exploring and comparing underlaying data"
 teaching: 5
-exercises: 15
+exercises: 5
 questions:
 - "What data is available in Wazimap?"
 objectives:
