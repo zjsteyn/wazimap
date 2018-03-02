@@ -12,5 +12,5 @@ keypoints:
 - "Explore through map view"
 ---
 
-## This episode will teach demonstrate how we can use built in Wazimap functions
+## This episode will demonstrate how we can use built-in Wazimap functions
 
