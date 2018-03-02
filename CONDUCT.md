@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: setup
 title: "Contributor Code of Conduct"
 ---
 As contributors and maintainers of this project,
